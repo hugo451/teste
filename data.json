@@ -1,0 +1,11 @@
+{
+    {
+        "name": "EURUSD",
+        "status": "Signal",
+        "range": "1.8124 - 1.8365",
+        "order": "BUY",
+        "orderprice": "1.80132",
+        "hour": "21:15"
+
+    }
+}
